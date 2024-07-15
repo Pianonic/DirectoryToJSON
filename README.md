@@ -2,16 +2,6 @@
 
 This project provides a tool to generate a JSON representation of a directory structure. The output can optionally include the contents of the files. It offers both a command-line interface (CLI) and a graphical user interface (GUI) using Tkinter.
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Command-Line Interface](#command-line-interface)
-  - [Graphical User Interface](#graphical-user-interface)
-- [Requirements](#requirements)
-- [License](#license)
-
 ## 🌟 Features
 
 - Generate a JSON representation of a directory structure.
