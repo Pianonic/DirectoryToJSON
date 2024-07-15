@@ -56,3 +56,7 @@ python your_script.py
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+Made with ❤️ by [PianoNic](https://github.com/Pianonic)
