@@ -13,7 +13,7 @@ This project provides a tool to generate a JSON representation of a directory st
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/directory-to-json.git
+    git clone https://github.com/Pianonic/DirectoryToJSON.git
     cd directory-to-json
     ```
 
