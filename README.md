@@ -1,6 +1,3 @@
-Certainly! Here is a sample `README.md` file for your GitHub page, enhanced with emojis to make it more engaging:
-
-```markdown
 # 📂 Directory to JSON Converter
 
 This project provides a tool to generate a JSON representation of a directory structure. The output can optionally include the contents of the files. It offers both a command-line interface (CLI) and a graphical user interface (GUI) using Tkinter.
